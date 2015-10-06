@@ -166,16 +166,30 @@ border-top-right-radius: 5px;
 margin-top:-19px;
 }
 
-.cabeceramenu ul li.iniciate,
-.cabeceramenu ul li.hpd2,
-.cabeceramenu ul li.apps,
-.cabeceramenu ul li.trucos,
-.cabeceramenu ul li.movilidad,
-.cabeceramenu ul li.exito
+.cabeceramenu ul li.opcion1
  {
-	width: 173.5px;
+	width: 175px;
 }
-
+.cabeceramenu ul li.opcion2
+ {
+	width: 120px;
+}
+.cabeceramenu ul li.opcion3
+ {
+	width: 120px;
+}
+.cabeceramenu ul li.opcion4
+ {
+	width: 150px;
+}
+.cabeceramenu ul li.opcion5
+ {
+	width: 150px;
+}
+.cabeceramenu ul li.opcion6
+ {
+	width: 150px;
+}
 .cabeceramenu  ul li.homefirst {
 	width: 81px;
 	border-bottom-left-radius: 5px;
@@ -264,17 +278,17 @@ margin-top:-19px;
   <ul>
 	<li id="home" class="homefirst"><a class="enlace" href="https://sites.google.com/a/bbva.com/evolucionadigital/" target="_parent"  title="home"/></li>
 
-	<li id="inicio" class="iniciate"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/" target="_parent">Ayuda para digitalizar</a></span></span></li>
+	<li id="inicio" class="opcion1"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/" target="_parent">Ayuda para digitalizar</a></span></span></li>
 
-	<li id="movilidad" class="movilidad"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent">Decálogo</a></span></span></li>
+	<li id="movilidad" class="opcion2"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent">Decálogo</a></span></span></li>
 
-	<li id="exito" class="exito"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent" >Novedades</a></span></span></li>
+	<li id="exito" class="opcion3"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent" >Novedades</a></span></span></li>
 
- 	<li id="trucosyconsejos" class="trucos"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent">Operativa por canal</a></span></span></li>
+ 	<li id="trucosyconsejos" class="opcion4"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent">Operativa por canal</a></span></span></li>
 
-	<li id="googleapps" class="apps"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent">!Pruébalo antes!</a></span></span></li>
+	<li id="googleapps" class="opcion5"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent">!Pruébalo antes!</a></span></span></li>
 
-  <li id="googleapps" class="apps"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent">Tu opinión</a></span></span></li>
+  <li id="googleapps" class="opcion6"><span class="enlace" tabindex="0"><span><a href="https://sites.google.com/a/bbva.com/evolucionadigital/"  target="_parent">Tu opinión</a></span></span></li>
 
   </ul>
 </div>

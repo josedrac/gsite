@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+	<ModulePrefs title="pagetitle.xml" height ="50">
+		<Require feature="idi"/>
+	    <Require feature="locked-domain" />
+		<Require feature="dynamic-height"/>   
+		<Require feature="setprefs" />   
+	</ModulePrefs>
+
+	<Content type="html">
+	    <![CDATA[
+		<script src="https://www.google.com/jsapi" type="text/javascript"></script>
+		
+		<style type="text/css">
+			@font-face {
+				font-family: 'BBVA Web Light';
+				src:url('https://bbvaportaldeayuda.googlecode.com/svn/trunk/fonts/web-light/web-light.eot');
+				src:url('https://bbvaportaldeayuda.googlecode.com/svn/trunk/fonts/web-light/web-light.eot?iefix') format("embedded-opentype"),
+					url('https://bbvaportaldeayuda.googlecode.com/svn/trunk/fonts/web-light/web-light.woff') format("woff"),
+					url('https://bbvaportaldeayuda.googlecode.com/svn/trunk/fonts/web-light/web-light.ttf') format("truetype"),
+					url('https://bbvaportaldeayuda.googlecode.com/svn/trunk/fonts/web-light/web-light.svg#BBVA Web Light') format("svg");
+				font-style: normal;
+				font-weight: normal;
+			}
+			.content {
+				width: 100%;
+			}
+			.col-text, .col-img {
+				width: 50%;
+				float: left;
+			}
+		</style>
+		
+		<div class="content">
+			<div class="col-text">
+				<div class="section">
+					<h2>Demo móvil navegable</h2>
+					<p>Prueba todas las funcionalidades de nuestra app cómodamente desde tu pc con un usuario ficticio.</p>
+					<button>Accede</button>
+				</div>
+				<div class="section">
+					<h2>Demo móvil navegable</h2>
+					<p>Prueba todas las funcionalidades de nuestra app cómodamente desde tu pc con un usuario ficticio.</p>
+					<button>Accede</button>
+				</div>
+				<div class="section">
+					<h2>Demo móvil navegable</h2>
+					<p>Prueba todas las funcionalidades de nuestra app cómodamente desde tu pc con un usuario ficticio.</p>
+					<button>Accede</button>
+				</div>
+				<div class="section">
+					<h2>Demo móvil navegable</h2>
+					<p>Prueba todas las funcionalidades de nuestra app cómodamente desde tu pc con un usuario ficticio.</p>
+					<button>Accede</button>
+				</div>
+			</div>
+			<div class="col-img">
+				<img src="https://raw.githubusercontent.com/josedrac/gsite/home/img/mobile.png" alt="">
+			</div>
+		</div>
+
+	  </Content>
+</Module>

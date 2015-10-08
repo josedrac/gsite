@@ -91,6 +91,10 @@ ol, ul {
   padding:0;
 }
 
+.cabeceramenu ul li{
+  display: inline-block;
+}
+
 .cabeceramenu ul li.homefirst,
 .cabeceramenu ul li.iniciate,
 .cabeceramenu ul li.hpd2,
@@ -168,7 +172,7 @@ margin-top:-19px;
 
 .cabeceramenu ul li.opcion1
  {
-	width: 175px;
+	width: 170px;
 }
 .cabeceramenu ul li.opcion2
  {
@@ -180,7 +184,7 @@ margin-top:-19px;
 }
 .cabeceramenu ul li.opcion4
  {
-	width: 150px;
+	width: 155px;
 }
 .cabeceramenu ul li.opcion5
  {
@@ -188,7 +192,7 @@ margin-top:-19px;
 }
 .cabeceramenu ul li.opcion6
  {
-	width: 150px;
+	width: 135px;
 }
 .cabeceramenu  ul li.homefirst {
 	width: 81px;

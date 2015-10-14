@@ -31,7 +31,7 @@
 		            -moz-border-radius: 2px;
 		            -webkit-border-radius: 2px;
 		            -khtml-border-radius: 2px;
-		            width: 300px;
+		            width: 290px;
 		            padding: 3px;
 		        }
 
